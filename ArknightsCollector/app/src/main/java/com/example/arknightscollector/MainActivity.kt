@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
         val adapter = BtnAdapterVertical()
         bind?.recyclerView!!.adapter = adapter
 
-        collectorViewModel.liveData.observe(this) { people ->
+        collectorViewModel.tagLiveData.observe(this) { people ->
             var str = ""
             people.forEach {
                 str+= "\n${it.name}"
