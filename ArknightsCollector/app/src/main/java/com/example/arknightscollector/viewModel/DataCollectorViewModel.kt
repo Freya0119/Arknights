@@ -1,5 +1,7 @@
 package com.example.arknightscollector.viewModel
 
+import android.util.Log
+import android.widget.Toast
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.arknightscollector.database.database.data.PersonDatabase
@@ -7,7 +9,6 @@ import com.example.arknightscollector.database.database.data.PersonDatabase
 class DataCollectorViewModel : ViewModel() {
     // 資料庫，全幹員
     private val peopleList = PersonDatabase().getList()
-    // 詞綴組合？
     // 資歷
     private var experienceList = mutableListOf<String>()
     // 職業
@@ -27,4 +28,6 @@ class DataCollectorViewModel : ViewModel() {
             }
         }
     }
+    // 詞綴組合？
+    fun createWordLists(){}
 }

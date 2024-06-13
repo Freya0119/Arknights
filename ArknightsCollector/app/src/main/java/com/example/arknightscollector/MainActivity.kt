@@ -6,6 +6,8 @@ import com.example.arknightscollector.databinding.MainActivityBinding
 import com.example.arknightscollector.view.adapter.BtnAdapterVertical
 import com.example.arknightscollector.viewModel.DataCollectorViewModel
 
+const val TEST_TAG = "TEST_TAG"
+
 class MainActivity : ComponentActivity() {
     private var bind: MainActivityBinding? = null
 
@@ -17,14 +19,14 @@ class MainActivity : ComponentActivity() {
         bind = MainActivityBinding.inflate(layoutInflater)
         setContentView(bind!!.root)
 
-        // TODO: adapter? button view
-        val adapter = BtnAdapterVertical()
-        bind?.recyclerView!!.adapter = adapter
+//        // TODO: adapter? button view
+//        val adapter = BtnAdapterVertical()
+//        bind?.recyclerView!!.adapter = adapter
 
-        collectorViewModel.tagLiveData.observe(this) { people ->
+        collectorViewModel.tagLiveData.observe(this) { tags ->
             var str = ""
-            people.forEach {
-                str+= "\n${it.name}"
+            tags.forEach {
+                str+= "${it}\n"
             }
             bind!!.tvTitle.text = "Hello, ${str}!"
         }

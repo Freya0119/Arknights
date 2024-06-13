@@ -5,7 +5,6 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.arknightscollector.databinding.ItemBtnBinding
-import com.example.arknightscollector.viewModel.TagHeaderList
 
 // TODO: Header, content
 class BtnAdapterHorizontal : RecyclerView.Adapter<BtnAdapterHorizontal.BtnViewHolder>() {
@@ -18,7 +17,7 @@ class BtnAdapterHorizontal : RecyclerView.Adapter<BtnAdapterHorizontal.BtnViewHo
     }
 
     override fun onBindViewHolder(holder: BtnViewHolder, position: Int) {
-        holder.bind.btn.text = btn.get(position)
+//        holder.bind.btn.text = btn.get(position)
         holder.itemView.setOnClickListener {  }
     }
 
