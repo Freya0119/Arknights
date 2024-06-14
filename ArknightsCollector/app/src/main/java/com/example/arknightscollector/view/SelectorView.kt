@@ -4,10 +4,11 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.FrameLayout
-import android.widget.LinearLayout
 import android.widget.TextView
 import android.widget.Toast
-import com.example.arknightscollector.R
+import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.findViewTreeLifecycleOwner
+import androidx.lifecycle.findViewTreeViewModelStoreOwner
 import com.example.arknightscollector.databinding.ViewSeletorBinding
 import com.example.arknightscollector.view.adapter.SelectorAdapter
 import com.example.arknightscollector.viewModel.DataCollectorViewModel
@@ -15,22 +16,21 @@ import com.example.arknightscollector.viewModel.DataCollectorViewModel
 class SelectorView : FrameLayout {
 
     private var bind: ViewSeletorBinding? = null
-    private lateinit var selectorViewModel: DataCollectorViewModel
-
-    private lateinit var tv: TextView
+    private val selectorViewModel by lazy {
+        ViewModelProvider(findViewTreeViewModelStoreOwner()!!).get(DataCollectorViewModel::class.java)
+    }
 
     init {
-        selectorViewModel = DataCollectorViewModel()
+        bind = ViewSeletorBinding.inflate(LayoutInflater.from(context),this, true)
         initViewText()
     }
 
     private fun initViewText() {
-        bind = ViewSeletorBinding.inflate(LayoutInflater.from(context),this, true)
 
         val clickItem: ClickItem = object : ClickItem {
             override fun onClick(word: String) {
-                Toast.makeText(context, "${selectorViewModel?.tagLiveData?.value?.size}", Toast.LENGTH_SHORT).show()
-                selectorViewModel?.setWord(word)
+                Toast.makeText(context, "${selectorViewModel.tagLiveData.value?.size}", Toast.LENGTH_SHORT).show()
+                selectorViewModel.setWord(word)
             }
         }
 
