@@ -1,14 +1,12 @@
-package com.example.arknightscollector.view.adapter
+package com.example.arknightscollector.adapter
 
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.arknightscollector.databinding.ItemBtnBinding
-import com.example.arknightscollector.view.ClickItem
+import com.example.arknightscollector.fragment.ClickItem
 
-class SelectorAdapter(private val wordList: List<String>, val setWord: ClickItem) : RecyclerView.Adapter<SelectorAdapter.SelectorViewHolder>() {
+class SelectBtnAdapter(private val wordList: List<String>, val setWord: ClickItem) : RecyclerView.Adapter<SelectBtnAdapter.SelectorViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): SelectorViewHolder {
         val bind = ItemBtnBinding.inflate(LayoutInflater.from(parent.context), parent, false)
@@ -27,7 +25,6 @@ class SelectorAdapter(private val wordList: List<String>, val setWord: ClickItem
     inner class SelectorViewHolder(val bind: ItemBtnBinding) : RecyclerView.ViewHolder(bind.root) {
         fun bind(word: String) {
             bind.tv.setOnClickListener {
-                Log.e("TEST_TAT", "${word}")
                 setWord.onClick(word)
             }
         }

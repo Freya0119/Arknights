@@ -2,7 +2,7 @@ package com.example.arknightscollector.database.database.data
 
 import com.example.arknightscollector.database.model.Person
 
-class PersonDatabase {
+class OperatorDatabase {
     private val dataList = listOf(
         Person("name", "新手", "近衛", "遠程位", "削弱"),
         Person("name1", "新手", "近衛", "遠程位", "削弱"),
