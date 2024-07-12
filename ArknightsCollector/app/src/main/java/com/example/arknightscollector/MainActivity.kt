@@ -1,15 +1,14 @@
 package com.example.arknightscollector
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.viewModels
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
+import com.example.arknightscollector.data.JSON_TAG
+import com.example.arknightscollector.database.database.data.Avatar
 import com.example.arknightscollector.databinding.MainActivityBinding
-import com.example.arknightscollector.fragment.CalculatorFragment
 import com.example.arknightscollector.viewModel.CalculatorViewModel
-
-const val TEST_TAG = "TEST_TAG"
+import com.google.gson.Gson
 
 class MainActivity : AppCompatActivity() {
     private var bind: MainActivityBinding? = null
@@ -24,12 +23,12 @@ class MainActivity : AppCompatActivity() {
         bind = MainActivityBinding.inflate(layoutInflater)
         setContentView(bind!!.root)
 
-        collectorViewModel.tagLiveData.observe(this) { tags ->
+        collectorViewModel.opeFilterList.observe(this) { opeList ->
             var str = ""
-            tags.forEach {
-                str+= "${it}\n"
+            opeList.forEach {
+                str+= "${it.name}\n"
             }
-            bind!!.tvTitle.text = "Hello, ${str}!"
+            bind!!.tvMainTitle.text = "Hello, ${str}!"
         }
     }
 }

@@ -1,0 +1,3469 @@
+{
+  "warnings": {
+    "cargoquery": {
+      "*": "The value \"5000\" for parameter \"limit\" must be between 1 and 500."
+    }
+  },
+  "cargoquery": [
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "1",
+        "tag": "新手",
+        "cn": "夜刀",
+        "obtainMethod": "公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "费用回复",
+        "cn": "芬",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "费用回复",
+        "cn": "香草",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "输出 费用回复",
+        "cn": "翎羽",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "防护",
+        "cn": "预备干员-近战",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "费用回复 治疗",
+        "cn": "桃金娘",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "费用回复 输出",
+        "cn": "清道夫",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "费用回复 防护",
+        "cn": "讯使",
+        "obtainMethod": "信用交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出 费用回复",
+        "cn": "红豆",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 快速复活",
+        "cn": "晓歌",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 快速复活",
+        "cn": "谜图",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 控场",
+        "cn": "德克萨斯",
+        "obtainMethod": "公开招募 中坚寻访 常驻赠送"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 支援",
+        "cn": "万顷",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 支援",
+        "cn": "凛冬",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 支援",
+        "cn": "极境",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 输出",
+        "cn": "历阵锐枪芬",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 输出",
+        "cn": "红隼",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 输出",
+        "cn": "苇草",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 输出",
+        "cn": "贾维",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 输出",
+        "cn": "郁金香",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 输出",
+        "cn": "野鬃",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 防护",
+        "cn": "格拉尼",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "费用回复 防护",
+        "cn": "青枳",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "费用回复 快速复活",
+        "cn": "伊内丝",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "费用回复 支援",
+        "cn": "琴柳",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "费用回复 生存",
+        "cn": "焰尾",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "费用回复 输出",
+        "cn": "嵯峨",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "费用回复 输出",
+        "cn": "推进之王",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "费用回复 输出",
+        "cn": "风笛",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "费用回复 召唤",
+        "cn": "豆苗",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "费用回复 控场",
+        "cn": "夜半",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "费用回复 爆发",
+        "cn": "渡桥",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "费用回复 控场",
+        "cn": "伺夜",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "先锋",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "费用回复 控场",
+        "cn": "缪尔赛思",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "0",
+        "tag": "支援机械 治疗",
+        "cn": "Lancet-2",
+        "obtainMethod": "公开招募 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "治疗",
+        "cn": "安赛尔",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "治疗",
+        "cn": "芙蓉",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "治疗",
+        "cn": "预备干员-后勤",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "治疗",
+        "cn": "嘉维尔",
+        "obtainMethod": "信用交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "治疗",
+        "cn": "末药",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "治疗",
+        "cn": "苏苏洛",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "治疗",
+        "cn": "褐果",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "治疗",
+        "cn": "调香师",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "治疗 支援",
+        "cn": "清流",
+        "obtainMethod": "限时礼包 公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "Touch",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "刺玫",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "哈洛德",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "图耶",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "明椒",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "桑葚",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "濯尘芙蓉",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "絮雨",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "蜜莓",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "赫默",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗",
+        "cn": "锡兰",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗 支援",
+        "cn": "华法琳",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗 支援",
+        "cn": "微风",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗 支援",
+        "cn": "白面鸮",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗 输出",
+        "cn": "亚叶",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "治疗 输出",
+        "cn": "阿米娅(医疗)",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "召唤 治疗",
+        "cn": "凯尔希",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "治疗",
+        "cn": "纯烬艾雅法拉",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "治疗 支援",
+        "cn": "夜莺",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "治疗 支援",
+        "cn": "流明",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "治疗 支援",
+        "cn": "闪灵",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "医疗",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "治疗 输出 削弱",
+        "cn": "焰影苇草",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "1",
+        "tag": "新手",
+        "cn": "12F",
+        "obtainMethod": "公开招募 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "1",
+        "tag": "新手",
+        "cn": "杜林",
+        "obtainMethod": "公开招募 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "群攻",
+        "cn": "炎熔",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "输出",
+        "cn": "史都华德",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "输出",
+        "cn": "预备干员-术师",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "群攻",
+        "cn": "远山",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "群攻 减速",
+        "cn": "格雷伊",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "布丁",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出 削弱",
+        "cn": "夜烟",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出 控场",
+        "cn": "卡达",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出 控场",
+        "cn": "深靛",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "元素 爆发",
+        "cn": "温米",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "元素 输出",
+        "cn": "折光",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻",
+        "cn": "Pith",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 削弱",
+        "cn": "蚀清",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 控场",
+        "cn": "天火",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 控场",
+        "cn": "寒檀",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 控场",
+        "cn": "薄绿",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 控场",
+        "cn": "阿罗玛",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 爆发",
+        "cn": "莱恩哈特",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 防护",
+        "cn": "蜜蜡",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "和弦",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "惊蛰",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "戴菲恩",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "星源",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "洛洛",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "炎狱炎熔",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "爱丽丝",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "至简",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "苦艾",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "阿米娅",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 控场",
+        "cn": "耶拉",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 控场",
+        "cn": "雪绒",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 治疗 减速",
+        "cn": "夜魔",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "特米米",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "元素 输出 控场",
+        "cn": "妮芙",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "群攻 削弱",
+        "cn": "伊芙利特",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "群攻 支援 控场",
+        "cn": "莫斯提马",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "群攻 输出 控场",
+        "cn": "夕",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "群攻 防护",
+        "cn": "卡涅利安",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "群攻 防护",
+        "cn": "林",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "异客",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "澄闪",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "逻各斯",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "黑键",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出 削弱",
+        "cn": "艾雅法拉",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出 控场",
+        "cn": "刻俄柏",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "术师",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出 控场",
+        "cn": "霍尔海雅",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "0",
+        "tag": "支援机械 爆发",
+        "cn": "THRM-EX",
+        "obtainMethod": "公开招募 主线剧情 活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "位移",
+        "cn": "暗索",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "位移",
+        "cn": "阿消",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "快速复活 输出",
+        "cn": "孑",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "快速复活 防护",
+        "cn": "砾",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "生存 快速复活",
+        "cn": "维荻",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出 控场",
+        "cn": "伊桑",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "位移",
+        "cn": "杏仁",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "位移 减速",
+        "cn": "雪雉",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "位移 减速",
+        "cn": "食铁兽",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "位移 控场",
+        "cn": "见行者",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "位移 输出",
+        "cn": "崖心",
+        "obtainMethod": "公开招募 中坚寻访 常驻赠送"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "削弱 快速复活",
+        "cn": "双月",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "快速复活 削弱",
+        "cn": "槐琥",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "快速复活 控场",
+        "cn": "卡夫卡",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "快速复活 控场",
+        "cn": "红",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "快速复活 输出",
+        "cn": "乌有",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 快速复活",
+        "cn": "贝娜",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 快速复活",
+        "cn": "风丸",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "狮蝎",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "绮良",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "位移 输出 控场",
+        "cn": "歌蕾蒂娅",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "位移 输出 控场",
+        "cn": "温蒂",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "减速 输出",
+        "cn": "阿斯卡纶",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "快速复活 控场 输出",
+        "cn": "傀影",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "快速复活 爆发",
+        "cn": "琳琅诗怀雅",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "快速复活 爆发",
+        "cn": "麒麟R夜刀",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "快速复活 生存 输出",
+        "cn": "老鲤",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "快速复活 输出",
+        "cn": "缄默德克萨斯",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 快速复活",
+        "cn": "归溟幽灵鲨",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 控场",
+        "cn": "水月",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "召唤 位移",
+        "cn": "罗宾",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "召唤 控场",
+        "cn": "霜华",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "支援 输出",
+        "cn": "空构",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "召唤 控场",
+        "cn": "多萝西",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "召唤 控场 输出",
+        "cn": "艾拉",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "特种",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "支援 输出",
+        "cn": "阿",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "0",
+        "tag": "控场",
+        "cn": "泰拉大陆调查团",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "0",
+        "tag": "支援机械 支援",
+        "cn": "正义骑士号",
+        "obtainMethod": "公开招募 活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "1",
+        "tag": "新手",
+        "cn": "巡林者",
+        "obtainMethod": "公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "群攻",
+        "cn": "空爆",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "输出",
+        "cn": "克洛丝",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "输出",
+        "cn": "安德切尔",
+        "obtainMethod": "公开招募 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "输出",
+        "cn": "预备干员-狙击",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "群攻 减速",
+        "cn": "白雪",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "群攻 输出",
+        "cn": "松果",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "红云",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "跃跃",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "酸糖",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "铅踝",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出 减速",
+        "cn": "安比尔",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出 减速",
+        "cn": "梅",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出 削弱",
+        "cn": "流星",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "输出 生存",
+        "cn": "杰西卡",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻",
+        "cn": "奥斯塔",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻",
+        "cn": "送葬人",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 减速",
+        "cn": "截云",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 削弱",
+        "cn": "慑砂",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "群攻 削弱",
+        "cn": "陨星",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "Stormeye",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "冰酿",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "四月",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "寒芒克洛丝",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "普罗旺斯",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "灰喉",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "熔泉",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "白金",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "蓝毒",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "隐现",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 减速",
+        "cn": "安哲拉",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 减速",
+        "cn": "承曦格雷伊",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 控场",
+        "cn": "埃拉托",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 爆发",
+        "cn": "守林人",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 爆发",
+        "cn": "玫拉",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "子月",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "提丰",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "灰烬",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "空弦",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "维什戴尔",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "能天使",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "莱伊",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "菲亚梅塔",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "远牙",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "迷迭香",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "鸿雪",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "黑",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出 控场",
+        "cn": "W",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出 控场",
+        "cn": "早露",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "狙击",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "输出 群攻",
+        "cn": "假日威龙陈",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "防护 支援",
+        "cn": "罗比菈塔",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 支援",
+        "cn": "掠风",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "支援 输出",
+        "cn": "白铁",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "0",
+        "tag": "控场",
+        "cn": "U-Official",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "0",
+        "tag": "支援机械 元素",
+        "cn": "PhonoR-0",
+        "obtainMethod": "公开招募 活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "2",
+        "tag": "减速",
+        "cn": "梓兰",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "减速",
+        "cn": "地灵",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "减速 治疗",
+        "cn": "波登可",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "3",
+        "tag": "召唤",
+        "cn": "深海色",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "元素",
+        "cn": "凛视",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "减速 控场",
+        "cn": "小满",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "减速 控场",
+        "cn": "格劳克斯",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "减速 输出",
+        "cn": "真理",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "削弱",
+        "cn": "初雪",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "削弱",
+        "cn": "巫恋",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "削弱",
+        "cn": "海霓",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "削弱 减速",
+        "cn": "但书",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "召唤 控场",
+        "cn": "梅尔",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "召唤 支援",
+        "cn": "稀音",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "支援 治疗",
+        "cn": "海蒂",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "支援 治疗",
+        "cn": "空",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "支援 生存",
+        "cn": "九色鹿",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "支援 生存",
+        "cn": "夏栎",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "4",
+        "tag": "支援 生存",
+        "cn": "月禾",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "元素 支援",
+        "cn": "塑心",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "减速 支援 输出",
+        "cn": "铃兰",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "减速 输出 支援",
+        "cn": "安洁莉娜",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "削弱",
+        "cn": "灵知",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "召唤 支援 控场",
+        "cn": "令",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "支援 减速 输出",
+        "cn": "麦哲伦",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "支援 生存 治疗",
+        "cn": "淬羽赫默",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "支援 生存 输出",
+        "cn": "浊心斯卡蒂",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "辅助",
+        "position": "远程位",
+        "rarity": "5",
+        "tag": "支援 生存 输出",
+        "cn": "魔王",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "0",
+        "tag": "支援机械 支援",
+        "cn": "Castle-3",
+        "obtainMethod": "公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "群攻 生存",
+        "cn": "泡普卡",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "输出",
+        "cn": "月见夜",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "输出 生存",
+        "cn": "玫兰莎",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "减速 输出",
+        "cn": "霜叶",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "爆发 输出",
+        "cn": "刻刀",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "生存 输出",
+        "cn": "缠丸",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "群攻 生存",
+        "cn": "艾丝黛尔",
+        "obtainMethod": "公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "慕斯",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "杰克",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "猎蜂",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "石英",
+        "obtainMethod": "凭证交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "罗小黑",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出",
+        "cn": "芳汀",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出 支援",
+        "cn": "杜宾",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出 生存",
+        "cn": "休谟斯",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出 生存",
+        "cn": "宴",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "输出 生存 控场 爆发",
+        "cn": "断罪者",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "治疗 支援",
+        "cn": "医生",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "爆发",
+        "cn": "龙舌兰",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "爆发 输出",
+        "cn": "战车",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "爆发 输出",
+        "cn": "柏喙",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "生存 输出",
+        "cn": "火龙S黑角",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "生存 输出",
+        "cn": "赤冬",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "生存 输出",
+        "cn": "铸铁",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "群攻 控场",
+        "cn": "奥达",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "群攻 爆发",
+        "cn": "暴行",
+        "obtainMethod": "预约奖励 周年奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "群攻 生存",
+        "cn": "导火索",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "群攻 生存",
+        "cn": "布洛卡",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "群攻 生存",
+        "cn": "幽灵鲨",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "摩根",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "海沫",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "燧石",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "羽毛笔",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出",
+        "cn": "铎铃",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 削弱",
+        "cn": "拉普兰德",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 支援",
+        "cn": "烈夏",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 支援",
+        "cn": "苍苔",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 支援",
+        "cn": "诗怀雅",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 支援",
+        "cn": "阿米娅(近卫)",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 支援",
+        "cn": "鞭刃",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "Sharp",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "因陀罗",
+        "obtainMethod": "公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "炎客",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "芙兰卡",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 生存",
+        "cn": "达格达",
+        "obtainMethod": "主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 群攻",
+        "cn": "断崖",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 防护",
+        "cn": "星极",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "爆发",
+        "cn": "重岳",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "爆发 输出",
+        "cn": "陈",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "爆发 输出 削弱",
+        "cn": "锏",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "爆发 输出 控场",
+        "cn": "艾丽妮",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "爆发 输出 生存",
+        "cn": "百炼嘉维尔",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "史尔特尔",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "圣约送葬人",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "止颂",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "耀骑士临光",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出",
+        "cn": "赫德雷",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 控场",
+        "cn": "仇白",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 支援",
+        "cn": "帕拉斯",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 支援",
+        "cn": "银灰",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 爆发",
+        "cn": "玛恩纳",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存",
+        "cn": "乌尔比安",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存",
+        "cn": "山",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存",
+        "cn": "左乐",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存",
+        "cn": "斯卡蒂",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存",
+        "cn": "煌",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存",
+        "cn": "薇薇安娜",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存",
+        "cn": "赫拉格",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "近卫",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 防护",
+        "cn": "棘刺",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "0",
+        "tag": "支援机械 防护",
+        "cn": "Friston-3",
+        "obtainMethod": "公开招募 活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "1",
+        "tag": "新手",
+        "cn": "黑角",
+        "obtainMethod": "公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "防护",
+        "cn": "卡缇",
+        "obtainMethod": "标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "防护",
+        "cn": "米格鲁",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访 主线剧情"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "防护",
+        "cn": "预备干员-重装",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "2",
+        "tag": "防护 治疗",
+        "cn": "斑点",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "生存 防护",
+        "cn": "露托",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "防护",
+        "cn": "泡泡",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "防护",
+        "cn": "蛇屠箱",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "防护",
+        "cn": "角峰",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "防护 治疗",
+        "cn": "古米",
+        "obtainMethod": "公开招募 标准寻访 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "3",
+        "tag": "防护 输出",
+        "cn": "坚雷",
+        "obtainMethod": "信用交易所"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "生存 防护 输出",
+        "cn": "火神",
+        "obtainMethod": "公开招募"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 防护",
+        "cn": "暮落",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 防护",
+        "cn": "暮落",
+        "obtainMethod": "无"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 防护",
+        "cn": "极光",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 防护",
+        "cn": "火哨",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "输出 防护",
+        "cn": "灰毫",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护",
+        "cn": "拜松",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护",
+        "cn": "洋灰",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 位移",
+        "cn": "可颂",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 支援",
+        "cn": "暴雨",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 治疗",
+        "cn": "临光",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 治疗",
+        "cn": "吽",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 治疗",
+        "cn": "深律",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 输出",
+        "cn": "石棉",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 输出",
+        "cn": "车尔尼",
+        "obtainMethod": "活动获得 记录修复奖励"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 输出",
+        "cn": "闪击",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 输出",
+        "cn": "雷蛇",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "4",
+        "tag": "防护 输出 减速",
+        "cn": "深巡",
+        "obtainMethod": "活动获得"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "生存 输出",
+        "cn": "斥罪",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "生存 防护 输出",
+        "cn": "泥岩",
+        "obtainMethod": "中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 生存 防护",
+        "cn": "森蚺",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "输出 防护",
+        "cn": "号角",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "防护 支援",
+        "cn": "年",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "防护 治疗 支援",
+        "cn": "塞雷娅",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "防护 治疗 支援",
+        "cn": "黍",
+        "obtainMethod": "限定寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "防护 治疗 输出",
+        "cn": "瑕光",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "防护 生存 输出",
+        "cn": "涤火杰西卡",
+        "obtainMethod": "标准寻访"
+      }
+    },
+    {
+      "title": {
+        "profession": "重装",
+        "position": "近战位",
+        "rarity": "5",
+        "tag": "防护 输出",
+        "cn": "星熊",
+        "obtainMethod": "公开招募 中坚寻访"
+      }
+    }
+  ]
+}

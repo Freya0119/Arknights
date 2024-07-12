@@ -68,4 +68,6 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     // fragment: by activityViewModels()
     implementation("androidx.fragment:fragment-ktx:1.8.0")
+    // Gson
+    implementation("com.google.code.gson:gson:2.10.1")
 }
