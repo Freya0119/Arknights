@@ -23,9 +23,9 @@ class SelectBtnAdapter(private val wordList: List<String>, val setWord: ClickIte
     }
 
     inner class SelectorViewHolder(val bind: ItemBtnBinding) : RecyclerView.ViewHolder(bind.root) {
-        fun bind(word: String) {
+        fun bind(tag: String) {
             bind.tv.setOnClickListener {
-                setWord.onClick(word)
+                setWord.onClick(tag)
             }
         }
     }

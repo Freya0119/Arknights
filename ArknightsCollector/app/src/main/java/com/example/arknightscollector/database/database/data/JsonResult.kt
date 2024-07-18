@@ -2,15 +2,16 @@ package com.example.arknightscollector.database.database.data
 
 import com.google.gson.annotations.SerializedName
 
-data class Avatar(
+data class JsonResult(
     @SerializedName("cargoquery")
-    val avatars: List<CargoQuery>,
+    val avatars: List<Avatar>,
     val warnings: Warnings
 ) {
-    data class CargoQuery(
-        val title: Title
+    data class Avatar(
+        @SerializedName("title")
+        val info: Info
     ) {
-        data class Title(
+        data class Info(
             val cn: String,
             val obtainMethod: String,
             val position: String,

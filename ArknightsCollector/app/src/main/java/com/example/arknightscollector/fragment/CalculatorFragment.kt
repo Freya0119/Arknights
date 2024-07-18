@@ -8,19 +8,24 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.example.arknightscollector.databinding.ViewSeletorBinding
 import com.example.arknightscollector.adapter.SelectBtnAdapter
-import com.example.arknightscollector.viewModel.CalculatorViewModel
+import com.example.arknightscollector.viewModel.AvatarFilterViewModel
 import androidx.fragment.app.activityViewModels
+import com.example.arknightscollector.database.database.data.btnTitleList
+import com.example.arknightscollector.database.database.data.positionList
+import com.example.arknightscollector.database.database.data.professionList
+import com.example.arknightscollector.database.database.data.rarityList
+import com.example.arknightscollector.database.database.data.tagList
 
 // TODO: 整理 clickItem name
 interface ClickItem {
-    fun onClick(word: String)
+    fun onClick(tag: String)
 }
 
 class CalculatorFragment : Fragment() {
 
     private var bind: ViewSeletorBinding? = null
 
-    private val viewModel : CalculatorViewModel by activityViewModels()
+    private val avatarFilterViewModel : AvatarFilterViewModel by activityViewModels()
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         bind = ViewSeletorBinding.inflate(inflater, container, false)
@@ -40,17 +45,22 @@ class CalculatorFragment : Fragment() {
 
     private fun initAdapter() {
         val clickAddWord: ClickItem = object : ClickItem {
-            override fun onClick(word: String) {
-                viewModel.setTag(word)
-                Toast.makeText(context, "${viewModel.opeFilterList.value?.size}", Toast.LENGTH_SHORT).show()
+            override fun onClick(tag: String) {
+                avatarFilterViewModel.setTag(tag)
+                Toast.makeText(context, "${avatarFilterViewModel.avatarList.value}", Toast.LENGTH_SHORT).show()
             }
         }
 
         // TODO: title text
-        bind!!.includeLine0.tvTitle.text = "TODO"
+        bind!!.includeLine0.tvTitle.text = btnTitleList[0]
+        bind!!.includeLine1.tvTitle.text = btnTitleList[1]
+        bind!!.includeLine2.tvTitle.text = btnTitleList[2]
+        bind!!.includeLine3.tvTitle.text = btnTitleList[3]
+        // TODO: all select, all clear
         // TODO: list1, list2, list3
-        bind!!.includeLine0.recyclerView.adapter = SelectBtnAdapter(listOf("新手", "近衛", "遠程位", "000", "111"), clickAddWord)
-        bind!!.includeLine1.recyclerView.adapter = SelectBtnAdapter(listOf("削弱", "222", "333"), clickAddWord)
-        bind!!.includeLine2.recyclerView.adapter = SelectBtnAdapter(listOf("!!!", "???", "@@@"), clickAddWord)
+        bind!!.includeLine0.recyclerView.adapter = SelectBtnAdapter(professionList, clickAddWord)
+        bind!!.includeLine1.recyclerView.adapter = SelectBtnAdapter(positionList, clickAddWord)
+        bind!!.includeLine2.recyclerView.adapter = SelectBtnAdapter(rarityList, clickAddWord)
+        bind!!.includeLine3.recyclerView.adapter = SelectBtnAdapter(tagList, clickAddWord)
     }
 }
