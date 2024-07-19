@@ -24,7 +24,8 @@ class MainActivity : AppCompatActivity() {
             avaList.forEach {
                 name+= "${it.cn}\n"
             }
-            bind!!.tvMainTitle.text = "Hello,\n${name}!"
+//            bind!!.tvMainTitle.text = "Hello,\n${name}!"
+//            bind!!.recyclerAvatar.adapter = Adapter()   // now: string
         }
     }
 }

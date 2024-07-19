@@ -22,4 +22,9 @@ val tagList = listOf(
     "元素"
 )
 
-val btnTitleList = listOf("职业", "位置", "资历", "词缀")
+val filterBtnTitleList = listOf("职业", "位置", "资历", "词缀")
+val filterBtnContentList = listOf(professionList, positionList, rarityList, tagList)
+
+enum class ConstData {
+    PROFESSION, POSITION, RARITY, TAG
+}
