@@ -72,6 +72,4 @@ dependencies {
     implementation("com.google.code.gson:gson:2.10.1")
     // constraintlayout
     implementation("androidx.constraintlayout:constraintlayout:2.2.0-alpha13")
-    // sectioned adapter
-    implementation("com.github.luizgrp:SectionedRecyclerViewAdapter:v3.2.0")
 }

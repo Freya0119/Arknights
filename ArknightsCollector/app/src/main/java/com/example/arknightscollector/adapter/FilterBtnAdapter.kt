@@ -5,18 +5,17 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.arknightscollector.databinding.FilterBtnItemBinding
 
-interface  FilterBtnClicker {
-    fun onClick(type: String, tag: String)
+interface  FilterClicker {
+    fun onClick(tag: String)
 }
 
-class FilterBtnAdapter(private val btnList: List<String>) :
-    RecyclerView.Adapter<FilterBtnAdapter.FilterBtnViewHolder>() {
+class FilterBtnAdapter(private val btnList: List<String>) : RecyclerView.Adapter<FilterBtnAdapter.FilterBtnViewHolder>() {
 
-        private var mFilterClick : FilterBtnClicker? = null
+    private var mFilterClicker : FilterClicker? = null
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): FilterBtnViewHolder {
-        val bind = FilterBtnItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
-        return FilterBtnViewHolder(bind)
+        val binding = FilterBtnItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+        return FilterBtnViewHolder(binding)
     }
 
     override fun onBindViewHolder(holder: FilterBtnViewHolder, position: Int) {
@@ -27,18 +26,17 @@ class FilterBtnAdapter(private val btnList: List<String>) :
         return btnList.size
     }
 
-    fun setClickItem(clicker: FilterBtnClicker) {
-        mFilterClick = clicker
+    fun setClickItem(clicker: FilterClicker) {
+        mFilterClicker = clicker
     }
 
-    inner class FilterBtnViewHolder(private val bind: FilterBtnItemBinding) :
-        RecyclerView.ViewHolder(bind.root) {
+    inner class FilterBtnViewHolder(private val binding: FilterBtnItemBinding) : RecyclerView.ViewHolder(binding.root) {
         fun onBind(position: Int) {
-            val btnStr = btnList[position]
-            bind.tv.text = btnStr
-            bind.tv.setOnClickListener {
-                if (mFilterClick != null) {
-                    mFilterClick!!.onClick(btnStr, btnStr)
+            val tag = btnList[position]
+            binding.tv.text = tag
+            binding.tv.setOnClickListener {
+                if (mFilterClicker != null) {
+                    mFilterClicker!!.onClick(tag)
                 }
             }
         }
